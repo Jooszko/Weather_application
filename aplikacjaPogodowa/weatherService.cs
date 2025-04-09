@@ -53,6 +53,9 @@ public class WeatherData
 
     [JsonProperty("weather")]
     public WeatherInfo[]? Weather { get; set; }
+
+    [JsonProperty("wind")]
+    public WindInfo? Wind { get; set; }
 }
 
 public class MainData
@@ -62,13 +65,21 @@ public class MainData
 
     [JsonProperty("humidity")]
     public float Humidity { get; set; }
+
+    [JsonProperty("pressure")]
+    public float Pressure { get; set; }
 }
 
 public class WeatherInfo
 {
-    [JsonProperty("description")]
-    public string? Description { get; set; }
 
     [JsonProperty("icon")]
     public string? Icon { get; set; }
+}
+
+public class WindInfo
+{
+
+    [JsonProperty("speed")]
+    public float Speed { get; set; }
 }

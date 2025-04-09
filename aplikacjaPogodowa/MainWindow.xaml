@@ -5,41 +5,74 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:aplikacjaPogodowa"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="Pogoda" Height="600" Width="500">
+    <Window.Resources>
+        <DropShadowEffect x:Key="DropShadow" Color="Black" BlurRadius="10" ShadowDepth="2" Opacity="0.15"/>
+    </Window.Resources>
+
+    <Grid Margin="20">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
-            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
+        
+        <StackPanel Grid.Row="0" Margin="0,0,0,20">
+            <TextBlock Text="Wybierz miasto lub wpisz jego nazwę" FontSize="16" FontWeight="Bold" Foreground="#333" Margin="0,0,0,10"/>
 
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="4*"/>
-            <ColumnDefinition Width="200"/>
-        </Grid.ColumnDefinitions>
 
-        <TextBlock Grid.Row="0" x:Name="wyswietlacz" FontSize="30" Text="pogoda" />
-        <Button Grid.Row="3" Grid.Column="1" Content="Wyszukaj" Margin="10,10,10,10" Click="Button_Click"/>
-        <Image Source="images/01d@2x.png" x:Name="fotoPogoda" Width="200" Height="200"/>
-        <ComboBox x:Name="miasto" Grid.Row="1" Margin="0,5,5,5" Grid.Column="1">
-            <ComboBoxItem Content="Warszawa"/>
-            <ComboBoxItem Content="Prague"/>
-            <ComboBoxItem Content="London"/>
-            <ComboBoxItem Content="Katowice"/>
-            <ComboBoxItem Content="Barcelona"/>
-            <ComboBoxItem Content="Budapest"/>
-            <ComboBoxItem Content="Paris"/>
-            <ComboBoxItem Content="Moscow"/>
-            <ComboBoxItem Content="Madrid"/>
-            <ComboBoxItem Content="Porto"/>
-            <ComboBoxItem Content="Washington"/>
-            <ComboBoxItem Content="Catania"/>
-            <ComboBoxItem Content="Palermo"/>
-            <ComboBoxItem Content="Wieden"/>
-            <ComboBoxItem Content="Oslo"/>
-            <ComboBoxItem Content="Helsinki"/>
-        </ComboBox>
 
+            <ComboBox x:Name="pickCity" Height="35" FontSize="14" Padding="8" SelectionChanged="pickCity_SelectionChanged"
+                      Background="White" BorderBrush="#CCC" BorderThickness="1" Margin="0,0,0,10">
+                <ComboBoxItem Content="Warszawa"/>
+                <ComboBoxItem Content="Prague"/>
+                <ComboBoxItem Content="London"/>
+                <ComboBoxItem Content="Katowice"/>
+                <ComboBoxItem Content="Gliwice"/>
+                <ComboBoxItem Content="Barcelona"/>
+                <ComboBoxItem Content="Budapest"/>
+                <ComboBoxItem Content="Paris"/>
+                <ComboBoxItem Content="Moscow"/>
+                <ComboBoxItem Content="Madrid"/>
+                <ComboBoxItem Content="Porto"/>
+                <ComboBoxItem Content="Washington"/>
+                <ComboBoxItem Content="Catania"/>
+                <ComboBoxItem Content="Palermo"/>
+                <ComboBoxItem Content="Wieden"/>
+                <ComboBoxItem Content="Oslo"/>
+                <ComboBoxItem Content="Helsinki"/>
+            </ComboBox>
+
+
+            <TextBox x:Name="cityTextBox" Height="35" FontSize="14" Padding="8" TextChanged="cityTextBox_TextChanged"
+                     Background="White" BorderBrush="#CCC" BorderThickness="1" Margin="0,0,0,10"
+                     />
+
+            <Button x:Name="SearchButton" Content="🌤️ Pobierz pogodę" Height="40" FontSize="14"
+                    Background="#4A90E2" Foreground="White" BorderThickness="0" Cursor="Hand"
+                    Margin="0,0,0,10" Click="Button_Click">
+                <Button.Template>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                CornerRadius="6">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" Margin="0,0,0,20">
+            <Border Background="White" CornerRadius="12" Padding="10" Width="100" Height="100"
+                    Effect="{StaticResource DropShadow}">
+                <Image x:Name="fotoPogoda" Stretch="Uniform" />
+            </Border>
+        </StackPanel>
+
+        <Border Grid.Row="2" Background="White" Padding="20" CornerRadius="12"
+                Effect="{StaticResource DropShadow}">
+            <TextBlock  x:Name="wyswietlacz" FontSize="30" Text="" TextAlignment="Center" />
+        </Border>
     </Grid>
-    
+
 </Window>
