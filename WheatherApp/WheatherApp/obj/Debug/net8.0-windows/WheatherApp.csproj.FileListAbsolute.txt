@@ -1,0 +1,69 @@
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\App.g.cs
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp_MarkupCompile.cache
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp_MarkupCompile.lref
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.csproj.AssemblyReference.cache
+D:\Lab\WPF\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.exe
+D:\Lab\WPF\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.deps.json
+D:\Lab\WPF\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.runtimeconfig.json
+D:\Lab\WPF\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.dll
+D:\Lab\WPF\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.pdb
+D:\Lab\WPF\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.g.resources
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.AssemblyInfoInputs.cache
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.AssemblyInfo.cs
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.csproj.CoreCompileInputs.cache
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.csproj.CopyComplete
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.dll
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\refint\WheatherApp.dll
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.pdb
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.genruntimeconfig.cache
+D:\Lab\WPF\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\ref\WheatherApp.dll
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.exe
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.deps.json
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.runtimeconfig.json
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.dll
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.pdb
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.csproj.AssemblyReference.cache
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\App.g.cs
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp_MarkupCompile.cache
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp_MarkupCompile.lref
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.g.resources
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.AssemblyInfoInputs.cache
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.AssemblyInfo.cs
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.csproj.CoreCompileInputs.cache
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.csproj.CopyComplete
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.dll
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\refint\WheatherApp.dll
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.pdb
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.genruntimeconfig.cache
+D:\Studenci\2023 - 2024\Programowanie obiektowe i graficzne\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\ref\WheatherApp.dll
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.exe
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.deps.json
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.runtimeconfig.json
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.dll
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\WheatherApp.pdb
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.csproj.AssemblyReference.cache
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\App.g.cs
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp_MarkupCompile.cache
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp_MarkupCompile.lref
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.g.resources
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.AssemblyInfoInputs.cache
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.AssemblyInfo.cs
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.csproj.CoreCompileInputs.cache
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.csproj.CopyComplete
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.dll
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\refint\WheatherApp.dll
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.pdb
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\WheatherApp.genruntimeconfig.cache
+D:\Studenci\2024 - 2025\POiG\Wykłady\W3 - łączenie z api (wheatherApp)\WheatherApp\WheatherApp\obj\Debug\net8.0-windows\ref\WheatherApp.dll
